@@ -7,8 +7,8 @@ Created on Fri Jul 24 08:49:34 2020
 """
 
 from ShiJiuZhong import ShiJiuZhong
-#from MiniSEED import MiniSEED
-#from Taide import Taide
+from MiniSEED import MiniSEED
+from Taide import Taide
 import asyncio
 
 loop = asyncio.get_event_loop()
