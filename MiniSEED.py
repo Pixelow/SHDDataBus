@@ -15,7 +15,7 @@ import leancloud
 
 leancloud.init("2vwh1TYLAQQx3lClxPmNj39v-gzGzoHsz", "vOLGzfgbSHRpC1Wpyque8DcY")
 
-class SJZDataTrans:    
+class MiniSEED:
     def __init__(self, fileUrl, fileName):
         self.fileUrl = fileUrl
         self.fileName = fileName
